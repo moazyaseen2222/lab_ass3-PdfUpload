@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "722027261200",
+    "project_id": "labass3-6ba68",
+    "storage_bucket": "labass3-6ba68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722027261200:android:d301b96bcc57ffb51a0995",
+        "android_client_info": {
+          "package_name": "com.example.lab_ass3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722027261200-3tnume21h2f050riuce67rq8o26pcllg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfaGwstqCTddGN1UhX86lyfQrqpKXfAkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722027261200-3tnume21h2f050riuce67rq8o26pcllg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
